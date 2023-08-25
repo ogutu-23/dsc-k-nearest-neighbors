@@ -1,4 +1,3 @@
-
 # K-Nearest Neighbors
 
 ## Introduction
@@ -26,7 +25,7 @@ All the magic happens during the "predict" step. During this step, KNN takes a p
 
 In the following animation, K=3: 
 
-<img src='images/knn.gif'>
+<img src='https://curriculum-content.s3.amazonaws.com/data-science/images/knn.gif'>
 
 [gif source](https://gfycat.com/wildsorrowfulchevrotain)
 
